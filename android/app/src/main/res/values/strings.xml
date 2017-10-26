@@ -1,0 +1,4 @@
+<resources>
+    <string moduleConfig="true" name="reactNativeCodePush_androidDeploymentKey">vWJqpqj5iTQgrKSMG-4Jf3sdkaak15e98016-0db0-417c-9405-14fe0addafbc</string>
+    <string name="app_name">testappNormaliz</string>
+</resources>
